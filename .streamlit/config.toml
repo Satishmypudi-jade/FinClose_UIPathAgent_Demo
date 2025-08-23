@@ -1,0 +1,14 @@
+[theme]
+base="light"
+primaryColor="#A56202"
+
+[client]
+showSidebarNavigation=false
+
+[uipath_orchestrator] 
+client_id = "3f9a0ebe-13c9-44b1-977b-b44e628dce62" 
+client_secret = "8KKkQ~p5hC%6wh?~X65B%G?PGtoMJNFUA7K_JD13P^5SmWQT(xLbBWMU!Z0XpW1R" 
+account_name = "jadegazcbnwa" 
+tenant_name = "DefaultTenant" 
+folder_id = "117077" 
+process_key = "Finclose_Agent"
